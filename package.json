@@ -1,0 +1,24 @@
+{
+  "name": "functional-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "play" : "babel-node functional-playground/play.js --presets es2017-node7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/error17191/functional-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/error17191/functional-js/issues"
+  },
+  "homepage": "https://github.com/error17191/functional-js#readme",
+  "devDependencies": {
+    "babel-preset-es2017-node7": "^0.5.2"
+  }
+}
